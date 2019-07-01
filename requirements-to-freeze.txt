@@ -1,0 +1,5 @@
+# pip install -r requirements-to-freeze.txt --upgrade
+# pip freeze > requirements.txt
+# Based on https://www.kennethreitz.org/essays/a-better-pip-workflow
+requests
+click
